@@ -1,5 +1,15 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: aqua;
+    background-color: rgb(76, 0, 255);    
+}
+header,footer{
+width: 100%;
+background-color: crimson;
+}
+header{
+   height: 15vh; 
+}
+footer{
+    height: 5vh;
 }
